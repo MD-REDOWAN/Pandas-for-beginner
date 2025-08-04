@@ -17,7 +17,6 @@ print("----------------------------")
 # Labels (index): This label can be used to access a specified value ,start from first value index 0, second value index 1
 
 # Creat Lables
-
 import pandas as pd
 
 a = [3.92, 3.78, 3.50]
